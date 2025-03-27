@@ -95,4 +95,4 @@ def run():
     ]
 
     write_plan(task, steps)
-    agent.run(prompt)
+    agent.invoke(prompt)
