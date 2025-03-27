@@ -24,6 +24,8 @@ Supports structured routines like:
 
 ## 🧠 Project Structure
 
+```
+
 smart_home_orchestrator/
 ├── main.py                         # Entry point: runs all tasks
 ├── agent/
@@ -43,6 +45,8 @@ smart_home_orchestrator/
 ├── logs/
 │   └── action_logs.json           # Action execution logs
 └── .env                           # Environment variables (e.g. API key)
+
+```
 
 ---
 
